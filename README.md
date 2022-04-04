@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @kathleendiep
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Full Stack Technologies - React, Python, HTML ,CSS 
 
 - 📫 How to reach me: 
-kathleendiep@gmail.com
+- kathleendiep@gmail.com
+- www.kathleendiep.com 
+
+
 
 
 <!---
