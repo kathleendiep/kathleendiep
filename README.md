@@ -6,7 +6,7 @@
 - My current goal is to: keep learning new technologies
 
 
-- My current project: is working on a social dog app
+- My current project: is working on a social dog app and #100DaysOfCode
 
 
 - 📫 How to reach me: 
