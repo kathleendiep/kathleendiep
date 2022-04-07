@@ -1,9 +1,18 @@
 - 👋 Hi, I’m @kathleendiep
-- 🌱 I’m currently learning Full Stack Technologies - React, Python, HTML ,CSS 
+- 🌱 I’m currently learning Full Stack Technologies - React, Python, Django 
+
+
+- As a current small business owner, and former accountant, I am now building my own Apps. 
+- My current goal is to: keep learning new technologies
+
+
+- My current project: is working on a social dog app
+
 
 - 📫 How to reach me: 
 - kathleendiep@gmail.com
 - www.kathleendiep.com 
+
 
 
 
