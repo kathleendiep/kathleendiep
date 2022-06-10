@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kathleendiep
-- 🌱 I’m currently learning Full Stack Technologies - React, Python, Django 
+- 🌱 I’m currently learning iOS Development  
+- I specialize in Full Stack Technologies - React, Python, Django, Express
 
 
 - As a current small business owner, and former accountant, I am now building my own Apps. 
