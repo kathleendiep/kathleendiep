@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kathleendiep
-- 🌱 I’m currently learning iOS Development  
+- 🌱 I’m currently learning iOS Development to build iOS Apps 
 - I specialize in Full Stack Technologies - React, Python, Django, Express
 
 
