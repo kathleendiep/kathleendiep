@@ -1,14 +1,6 @@
 - 👋 Hi, I’m @kathleendiep
-- 🌱 I’m currently learning iOS Development to build iOS Apps 
-- I specialize in Full Stack Technologies - React, Python, Django, Express
-
-
-- As a current small business owner, and former accountant, I am now building my own Apps. 
-- My current goal is to: keep learning new technologies
-
-
-- My current project: is working on a social dog app and #100DaysOfCode
-
+- 🌱 I’m currently building iOS apps at Walmart Global Tech 
+- I specialize in ios Mobile Apps and Front-end web development. 
 
 - 📫 How to reach me: 
 - kathleendiep@gmail.com
