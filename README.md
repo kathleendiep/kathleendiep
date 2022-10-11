@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kathleendiep
+- 👋 Hi, I’m Kathleen Diep
 - 🌱 I’m currently building iOS apps at Walmart Global Tech 
 - I specialize in ios Mobile Apps and Front-end web development. 
 
